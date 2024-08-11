@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1F1BA32-B38B-4267-9475-FFA62C46851E}|Project1\\Project1.vcxproj|D:\\github\\HelloProject\\test\\Project1\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1F1BA32-B38B-4267-9475-FFA62C46851E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975F4F9A-FD68-40B1-8F3C-ED75EACEEB1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{975F4F9A-FD68-40B1-8F3C-ED75EACEEB1E}|D:\\github\\HelloProject\\test\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{975F4F9A-FD68-40B1-8F3C-ED75EACEEB1E}|\uC194\uB8E8\uC158 \uD56D\uBAA9{975F4F9A-FD68-40B1-8F3C-ED75EACEEB1E}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\github\\HelloProject\\test\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "D:\\github\\HelloProject\\test\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-11T08:19:36.635Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
